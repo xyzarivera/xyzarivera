@@ -2,7 +2,7 @@
 
 [![Xyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzarivera)](https://github.com/xyzarivera/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzarivera)](https://github.com/xyzarivera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzarivera&hide=plpgsql)](https://github.com/xyzarivera/github-readme-stats)
 
 
 <!--
