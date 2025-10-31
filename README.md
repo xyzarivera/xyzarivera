@@ -1,10 +1,4 @@
-### ꉂ(˵˃ ᗜ ˂˵)　サイザ　です 
-
-📍Tokyo
-
-📸🎞️👩‍💻🏂
-
-software engineer
+## ꉂ(˵˃ ᗜ ˂˵)　サイザ　です 
 
 <!--
 [![Xyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzarivera)](https://github.com/xyzarivera/github-readme-stats)
