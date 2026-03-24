@@ -1,12 +1,13 @@
-## ꉂ(˵˃ ᗜ ˂˵)　サイザです 
+## ꉂ(˵˃ ᗜ ˂˵)　サイザです
 
 - 📍 Tokyo, JP
 - 👩🏼‍💻 Software Engineer
 - 💬 mostly JavaScript/TypeScript
 - 🛠️ APIs, Cloud, Frontend
-- ㊫ Quality Engineering, Operational Excellence
+- ㊫ Software Architecture, Quality Engineering, Operational Excellence
 
 🍵 Matcha is always a good idea
+
 🏠 [xyzarivera.com](https://xyzarivera.com/)
 
 <!--
