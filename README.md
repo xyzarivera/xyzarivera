@@ -4,9 +4,7 @@
 - 👩🏼‍💻 Software Engineer
 - 💬 mostly JavaScript/TypeScript
 - 🛠️ APIs, Cloud, Frontend
-- ㊫ Software Architecture, Quality Engineering, Operational Excellence
-
-🍵 Matcha is always a good idea
+- ㊫ Quality Engineering, Operational Excellence
 
 🏠 [xyzarivera.com](https://xyzarivera.com/)
 
